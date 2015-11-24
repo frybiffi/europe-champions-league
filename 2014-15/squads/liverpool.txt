@@ -27,6 +27,7 @@
 21  Lucas              (BRA)
 23  Emre Can           (GER)
 24  Joe Allen          (WAL)
+31  Raheem Sterling    (ENG)
 50  Lazar Marković     (SRB)
 
 ## Forwards
